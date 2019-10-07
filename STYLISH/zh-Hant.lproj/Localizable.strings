@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  STYLISH
+
+  Created by 楊雅涵 on 2019/7/31.
+  Copyright © 2019 AmyYang. All rights reserved.
+*/
+
+"loginfail" = "登入失敗";
+
+"loginsucess" = "登入成功";
+
+"payproduct" = "結帳商品";
+
+"receivemessage" = "收件資訊";
+
+"payDetail" = "付款詳情";
+
+"myBilling" = "我的訂單";
+"waitPay" = "待付款";
+"waitdelivery" = "待出貨";
+"waitReceive" = "待簽收";
+"waitComent" = "待評價";
+"seeAllbtn" = "查看全部>";
+"moreService" = "更多服務";
+"get" = "收藏";
+"notification" = "貨到通知";
+"returnMoney" = "帳戶退款";
+"adress" = "地址";
+"Customer" = "客服訊息";
+"systemMessage" = "系統回饋";
+"phoneBind" = "手機綁定";
+"setting" = "設定";
+
+"信用卡付款" = "信用卡付款";
+
+"貨到付款" = "貨到付款";
+
+"ProductQuauntity" = "總計(%d 樣商品)";
+
+"Total" = "總計";
+
+"products" = "樣商品";

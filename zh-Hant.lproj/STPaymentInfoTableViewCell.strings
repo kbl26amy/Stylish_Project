@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "總計 (4樣商品)"; ObjectID = "8ov-ov-dSM"; */
+"8ov-ov-dSM.text" = "總計 (4樣商品)";
+
+/* Class = "UITextField"; placeholder = "檢核碼"; ObjectID = "IPo-dU-Yao"; */
+"IPo-dU-Yao.placeholder" = "檢核碼";
+
+/* Class = "UIButton"; normalTitle = "確定結帳"; ObjectID = "Jg8-e7-47O"; */
+"Jg8-e7-47O.normalTitle" = "確定結帳";
+
+/* Class = "UILabel"; text = "NT$ 8470"; ObjectID = "Umo-U6-mXM"; */
+"Umo-U6-mXM.text" = "NT$ 8470";
+
+/* Class = "UITextField"; placeholder = "付款方式"; ObjectID = "da4-NM-yrP"; */
+"da4-NM-yrP.placeholder" = "付款方式";
+
+/* Class = "UILabel"; text = "運費總金額"; ObjectID = "hPR-LJ-9ws"; */
+"hPR-LJ-9ws.text" = "運費總金額";
+
+/* Class = "UITextField"; placeholder = "卡號"; ObjectID = "iq1-OX-sTF"; */
+"iq1-OX-sTF.placeholder" = "卡號";
+
+/* Class = "UILabel"; text = "NT$ 8530"; ObjectID = "j2h-mD-Jbi"; */
+"j2h-mD-Jbi.text" = "NT$ 8530";
+
+/* Class = "UITextField"; placeholder = "到期日"; ObjectID = "kSG-z1-f0J"; */
+"kSG-z1-f0J.placeholder" = "到期日";
+
+/* Class = "UILabel"; text = "NT$ 60"; ObjectID = "vX3-QS-RG3"; */
+"vX3-QS-RG3.text" = "NT$ 60";
+
+/* Class = "UILabel"; text = "商品總金額"; ObjectID = "yvu-dx-COl"; */
+"yvu-dx-COl.text" = "商品總金額";

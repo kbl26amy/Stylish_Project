@@ -1,0 +1,177 @@
+
+/* Class = "UILabel"; text = "備註"; ObjectID = "30n-a7-70L"; */
+"30n-a7-70L.text" = "備註";
+
+/* Class = "UIButton"; normalTitle = "cancel"; ObjectID = "3Pr-Fu-LfK"; */
+"3Pr-Fu-LfK.normalTitle" = "cancel";
+
+/* Class = "UIButton"; normalTitle = "移除"; ObjectID = "3ow-HL-dFB"; */
+"3ow-HL-dFB.normalTitle" = "移除";
+
+/* Class = "UILabel"; text = "棉、聚酯纖維"; ObjectID = "4Uu-3K-E53"; */
+"4Uu-3K-E53.text" = "棉、聚酯纖維";
+
+/* Class = "UILabel"; text = "庫存：14"; ObjectID = "6Iq-eK-ne7"; */
+"6Iq-eK-ne7.text" = "庫存：14";
+
+/* Class = "UIButton"; normalTitle = "再去逛逛"; ObjectID = "78a-Ab-t4f"; */
+"78a-Ab-t4f.normalTitle" = "再去逛逛";
+
+/* Class = "UIButton"; normalTitle = "男裝"; ObjectID = "79y-9I-RX8"; */
+"79y-9I-RX8.normalTitle" = "男裝";
+
+/* Class = "UILabel"; text = "產地"; ObjectID = "7X4-Sm-Zhe"; */
+"7X4-Sm-Zhe.text" = "產地";
+
+/* Class = "UILabel"; text = "NT$2140"; ObjectID = "8uv-Wc-eST"; */
+"8uv-Wc-eST.text" = "NT$2140";
+
+/* Class = "UILabel"; text = "24"; ObjectID = "CXA-Hz-7Pd"; */
+"CXA-Hz-7Pd.text" = "24";
+
+/* Class = "UIButton"; normalTitle = "女裝"; ObjectID = "Cgk-ZU-gJE"; */
+"Cgk-ZU-gJE.normalTitle" = "女裝";
+
+/* Class = "UILabel"; text = "韓國"; ObjectID = "Eib-Xp-szP"; */
+"Eib-Xp-szP.text" = "韓國";
+
+/* Class = "UILabel"; text = "厚實毛呢格子外套"; ObjectID = "H1o-a8-2tj"; */
+"H1o-a8-2tj.text" = "厚實毛呢格子外套";
+
+/* Class = "UILabel"; text = "XS  -  L"; ObjectID = "IEY-bo-hQD"; */
+"IEY-bo-hQD.text" = "XS  -  L";
+
+/* Class = "UILabel"; text = "累計消費ＮＴ＄100000"; ObjectID = "ISA-my-lFh"; */
+"ISA-my-lFh.text" = "累計消費ＮＴ＄100000";
+
+/* Class = "UILabel"; text = "NT$ 2140"; ObjectID = "Klx-Tx-IpF"; */
+"Klx-Tx-IpF.text" = "NT$ 2140";
+
+/* Class = "UILabel"; text = "材質"; ObjectID = "LEu-6l-mEF"; */
+"LEu-6l-mEF.text" = "材質";
+
+/* Class = "UILabel"; text = "我的訂單"; ObjectID = "LLX-k5-6sO"; */
+"LLX-k5-6sO.text" = "我的訂單";
+
+/* Class = "UILabel"; text = "登入會員後即可完成結帳。"; ObjectID = "LSZ-si-eNT"; */
+"LSZ-si-eNT.text" = "登入會員後即可完成結帳。";
+
+/* Class = "UILabel"; text = "神愛咪"; ObjectID = "LzS-7H-kmQ"; */
+"LzS-7H-kmQ.text" = "神愛咪";
+
+/* Class = "UILabel"; text = "選擇數量"; ObjectID = "MLV-qJ-n1s"; */
+"MLV-qJ-n1s.text" = "選擇數量";
+
+/* Class = "UILabel"; text = "我們收到您的訂單了！將以最快的速度為您安排出貨。"; ObjectID = "N1O-tk-vIA"; */
+"N1O-tk-vIA.text" = "我們收到您的訂單了！將以最快的速度為您安排出貨。";
+
+/* Class = "UILabel"; text = "保暖又不厚重，輕柔質感新美學"; ObjectID = "Nf9-KQ-EMZ"; */
+"Nf9-KQ-EMZ.text" = "保暖又不厚重，輕柔質感新美學";
+
+/* Class = "UIButton"; normalTitle = "FaceBook登入"; ObjectID = "P4c-kP-B8S"; */
+"P4c-kP-B8S.normalTitle" = "FaceBook登入";
+
+/* Class = "UILabel"; text = "羊毛粗織長版毛衣"; ObjectID = "Rmu-Z2-tLa"; */
+"Rmu-Z2-tLa.text" = "羊毛粗織長版毛衣";
+
+/* Class = "UILabel"; text = "NT$2140"; ObjectID = "Sr6-6f-zWV"; */
+"Sr6-6f-zWV.text" = "NT$2140";
+
+/* Class = "UIButton"; normalTitle = "查看全部>"; ObjectID = "T7O-tc-zje"; */
+"T7O-tc-zje.normalTitle" = "查看全部>";
+
+/* Class = "UILabel"; text = "選擇顏色"; ObjectID = "TzU-RY-Yom"; */
+"TzU-RY-Yom.text" = "選擇顏色";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "U2x-a9-Tod"; */
+"U2x-a9-Tod.text" = "L";
+
+/* Class = "UILabel"; text = "NT$2140"; ObjectID = "YZX-3q-g7g"; */
+"YZX-3q-g7g.text" = "NT$2140";
+
+/* Class = "UILabel"; text = "結帳成功"; ObjectID = "acE-Pd-OWg"; */
+"acE-Pd-OWg.text" = "結帳成功";
+
+/* Class = "UIButton"; normalTitle = "配件"; ObjectID = "fO3-Vt-M0T"; */
+"fO3-Vt-M0T.normalTitle" = "配件";
+
+/* Class = "UILabel"; text = "尺寸"; ObjectID = "fhc-dq-KPZ"; */
+"fhc-dq-KPZ.text" = "尺寸";
+
+/* Class = "UIButton"; normalTitle = "加入購物車"; ObjectID = "fhv-1Y-M4U"; */
+"fhv-1Y-M4U.normalTitle" = "加入購物車";
+
+/* Class = "UINavigationItem"; title = "個人"; ObjectID = "geQ-aK-lfT"; */
+"geQ-aK-lfT.title" = "個人";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "h7L-RO-NGC"; */
+"h7L-RO-NGC.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "購物車目前沒有商品！"; ObjectID = "hVu-e8-ewH"; */
+"hVu-e8-ewH.text" = "購物車目前沒有商品！";
+
+/* Class = "UILabel"; text = "厚實毛呢格子外套"; ObjectID = "hXk-9u-wZ1"; */
+"hXk-9u-wZ1.text" = "厚實毛呢格子外套";
+
+/* Class = "UILabel"; text = "實品顏色以單品照為主"; ObjectID = "hdO-Hb-5Zx"; */
+"hdO-Hb-5Zx.text" = "實品顏色以單品照為主";
+
+/* Class = "UIButton"; normalTitle = "加入購物車"; ObjectID = "heu-tT-oEk"; */
+"heu-tT-oEk.normalTitle" = "加入購物車";
+
+/* Class = "UIButton"; normalTitle = "前往結帳"; ObjectID = "i61-as-Fbw"; */
+"i61-as-Fbw.normalTitle" = "前往結帳";
+
+/* Class = "UINavigationItem"; title = "購物車"; ObjectID = "isH-1R-1Tr"; */
+"isH-1R-1Tr.title" = "購物車";
+
+/* Class = "UILabel"; text = "待付款"; ObjectID = "jxd-Yj-mJh"; */
+"jxd-Yj-mJh.text" = "待付款";
+
+/* Class = "UILabel"; text = "選擇尺寸"; ObjectID = "kSM-eQ-2JI"; */
+"kSM-eQ-2JI.text" = "選擇尺寸";
+
+/* Class = "UILabel"; text = "庫存"; ObjectID = "lTf-Ji-QGo"; */
+"lTf-Ji-QGo.text" = "庫存";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "m2a-5T-NaU"; */
+"m2a-5T-NaU.text" = "L";
+
+/* Class = "UIButton"; normalTitle = "＋"; ObjectID = "meZ-91-ozy"; */
+"meZ-91-ozy.normalTitle" = "＋";
+
+/* Class = "UILabel"; text = "採用高級百分百棉質素材的外套。輕盈質感高優質的大衣，精緻做工升級，展現高質感價值。"; ObjectID = "o2A-xh-79N"; */
+"o2A-xh-79N.text" = "採用高級百分百棉質素材的外套。輕盈質感高優質的大衣，精緻做工升級，展現高質感價值。";
+
+/* Class = "UILabel"; text = "洗滌"; ObjectID = "pAR-fO-15A"; */
+"pAR-fO-15A.text" = "洗滌";
+
+/* Class = "UILabel"; text = "請先登入會員"; ObjectID = "qGR-7A-349"; */
+"qGR-7A-349.text" = "請先登入會員";
+
+/* Class = "UILabel"; text = "保暖又不厚重，輕柔質感新美學"; ObjectID = "rQ9-mR-jJl"; */
+"rQ9-mR-jJl.text" = "保暖又不厚重，輕柔質感新美學";
+
+/* Class = "UIButton"; normalTitle = "一"; ObjectID = "rm0-Sl-fBj"; */
+"rm0-Sl-fBj.normalTitle" = "一";
+
+/* Class = "UILabel"; text = "顏色"; ObjectID = "scH-8f-h6l"; */
+"scH-8f-h6l.text" = "顏色";
+
+/* Class = "UINavigationItem"; title = "型錄"; ObjectID = "veN-Gr-6n3"; */
+"veN-Gr-6n3.title" = "型錄";
+
+/* Class = "UILabel"; text = "厚實毛呢格子外套"; ObjectID = "vhM-NQ-g0g"; */
+"vhM-NQ-g0g.text" = "厚實毛呢格子外套";
+
+/* Class = "UIButton"; normalTitle = "付款"; ObjectID = "wEh-vl-wIr"; */
+"wEh-vl-wIr.normalTitle" = "付款";
+
+/* Class = "UILabel"; text = "羊毛粗織長版毛衣"; ObjectID = "wRa-Z3-Z6x"; */
+"wRa-Z3-Z6x.text" = "羊毛粗織長版毛衣";
+
+/* Class = "UILabel"; text = "手洗（水溫40度）"; ObjectID = "yPr-eu-AFm"; */
+"yPr-eu-AFm.text" = "手洗（水溫40度）";
+
+/* Class = "UILabel"; text = "厚實毛呢格子外套"; ObjectID = "yUe-Fu-Nqx"; */
+"yUe-Fu-Nqx.text" = "厚實毛呢格子外套";

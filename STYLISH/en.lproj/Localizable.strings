@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  STYLISH
+
+  Created by 楊雅涵 on 2019/7/31.
+  Copyright © 2019 AmyYang. All rights reserved.
+*/
+"loginfail" = "Login failure!";
+
+"loginsucess" = "Login sucess!";
+
+"payproduct" = "Pay Product";
+
+"receivemessage" = "Receive Message";
+
+"payDetail" = "PayDetail";
+
+"myBilling" = "myBilling";
+"waitPay" = "waitPay";
+"waitdelivery" = "waitdelivery";
+"waitReceive" = "waitReceive";
+"waitComent" = "waitComent";
+"seeAllbtn" = "seeAllbtn";
+"moreService" = "moreService";
+"get" = "get";
+"notification" = "notification";
+"returnMoney" = "returnMoney";
+"adress" = "adress";
+"Customer" = "Customer";
+"systemMessage" = "systemMessage";
+"phoneBind" = "phoneBind";
+"setting" = "setting";
+
+"信用卡付款" = "CreditCard";
+
+"貨到付款" = "Cash";
+
+"ProductQuauntity" = "Total(%d products)";
+
+"Total" = "Total";
+
+"products" = "products";

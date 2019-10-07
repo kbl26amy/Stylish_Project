@@ -1,0 +1,24 @@
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4nU-Gg-S2O"; */
+"4nU-Gg-S2O.placeholder" = "Email";
+
+/* Class = "UISegmentedControl"; R9D-Ap-zpH.segmentTitles[0] = "08:00-12:00"; ObjectID = "R9D-Ap-zpH"; */
+"R9D-Ap-zpH.segmentTitles[0]" = "08:00-12:00";
+
+/* Class = "UISegmentedControl"; R9D-Ap-zpH.segmentTitles[1] = "14:00-18:00"; ObjectID = "R9D-Ap-zpH"; */
+"R9D-Ap-zpH.segmentTitles[1]" = "14:00-18:00";
+
+/* Class = "UISegmentedControl"; R9D-Ap-zpH.segmentTitles[2] = "不指定"; ObjectID = "R9D-Ap-zpH"; */
+"R9D-Ap-zpH.segmentTitles[2]" = "不指定";
+
+/* Class = "UITextField"; placeholder = "收件人姓名"; ObjectID = "baI-YI-cw0"; */
+"baI-YI-cw0.placeholder" = "收件人姓名";
+
+/* Class = "UITextField"; placeholder = "地址"; ObjectID = "f5h-G5-axn"; */
+"f5h-G5-axn.placeholder" = "地址";
+
+/* Class = "UITextField"; placeholder = "手機號碼"; ObjectID = "hvp-0t-tsu"; */
+"hvp-0t-tsu.placeholder" = "手機號碼";
+
+/* Class = "UILabel"; text = "配送時間"; ObjectID = "zr7-ep-EQW"; */
+"zr7-ep-EQW.text" = "配送時間";

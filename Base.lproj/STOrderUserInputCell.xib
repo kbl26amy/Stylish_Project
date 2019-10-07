@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="477" id="KGk-i7-Jjw" customClass="STOrderUserInputCell" customModule="STYLISH" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="477"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="476.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="收件人姓名" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="baI-YI-cw0" customClass="STOrderUserInputTextField" customModule="STYLISH" customModuleProvider="target">
+                        <rect key="frame" x="16" y="0.0" width="288" height="56"/>
+                        <color key="backgroundColor" red="0.96078431372549022" green="0.96078431372549022" blue="0.96078431372549022" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="56" id="vsJ-pY-Myj"/>
+                        </constraints>
+                        <color key="textColor" red="0.39215686274509803" green="0.39215686274509803" blue="0.39215686274509803" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <fontDescription key="fontDescription" name="PingFangTC-Regular" family="PingFang TC" pointSize="16"/>
+                        <textInputTraits key="textInputTraits"/>
+                        <connections>
+                            <outlet property="delegate" destination="KGk-i7-Jjw" id="btg-9s-4Cu"/>
+                        </connections>
+                    </textField>
+                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Email" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="4nU-Gg-S2O" customClass="STOrderUserInputTextField" customModule="STYLISH" customModuleProvider="target">
+                        <rect key="frame" x="16" y="92" width="288" height="56"/>
+                        <color key="backgroundColor" red="0.96078431369999995" green="0.96078431369999995" blue="0.96078431369999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="56" id="6XP-AT-f7z"/>
+                        </constraints>
+                        <color key="textColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <fontDescription key="fontDescription" name="PingFangTC-Regular" family="PingFang TC" pointSize="16"/>
+                        <textInputTraits key="textInputTraits" keyboardType="emailAddress"/>
+                        <connections>
+                            <outlet property="delegate" destination="KGk-i7-Jjw" id="Jtn-sU-Fa2"/>
+                        </connections>
+                    </textField>
+                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="手機號碼" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="hvp-0t-tsu" customClass="STOrderUserInputTextField" customModule="STYLISH" customModuleProvider="target">
+                        <rect key="frame" x="16" y="184" width="288" height="56"/>
+                        <color key="backgroundColor" red="0.96078431369999995" green="0.96078431369999995" blue="0.96078431369999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="56" id="6Nn-2v-3uM"/>
+                        </constraints>
+                        <color key="textColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <fontDescription key="fontDescription" name="PingFangTC-Regular" family="PingFang TC" pointSize="16"/>
+                        <textInputTraits key="textInputTraits" keyboardType="phonePad"/>
+                        <connections>
+                            <outlet property="delegate" destination="KGk-i7-Jjw" id="Ppt-gY-RDi"/>
+                        </connections>
+                    </textField>
+                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="地址" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="f5h-G5-axn" customClass="STOrderUserInputTextField" customModule="STYLISH" customModuleProvider="target">
+                        <rect key="frame" x="16" y="276" width="288" height="56"/>
+                        <color key="backgroundColor" red="0.96078431369999995" green="0.96078431369999995" blue="0.96078431369999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="56" id="HQb-ts-BZy"/>
+                        </constraints>
+                        <color key="textColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <fontDescription key="fontDescription" name="PingFangTC-Regular" family="PingFang TC" pointSize="16"/>
+                        <textInputTraits key="textInputTraits"/>
+                        <connections>
+                            <outlet property="delegate" destination="KGk-i7-Jjw" id="76m-Ge-73K"/>
+                        </connections>
+                    </textField>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="配送時間" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zr7-ep-EQW">
+                        <rect key="frame" x="16" y="374" width="56" height="20"/>
+                        <fontDescription key="fontDescription" name="PingFangTC-Regular" family="PingFang TC" pointSize="14"/>
+                        <color key="textColor" red="0.39215686274509803" green="0.39215686274509803" blue="0.39215686274509803" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="R9D-Ap-zpH">
+                        <rect key="frame" x="16" y="402" width="288" height="45"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="44" id="UBg-FP-ows"/>
+                        </constraints>
+                        <segments>
+                            <segment title="08:00-12:00"/>
+                            <segment title="14:00-18:00"/>
+                            <segment title="不指定"/>
+                        </segments>
+                        <color key="tintColor" red="0.24705882352941178" green="0.22745098039215686" blue="0.22745098039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </segmentedControl>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="4nU-Gg-S2O" firstAttribute="leading" secondItem="baI-YI-cw0" secondAttribute="leading" id="3Jw-a5-aqq"/>
+                    <constraint firstItem="zr7-ep-EQW" firstAttribute="top" secondItem="f5h-G5-axn" secondAttribute="bottom" constant="42" id="Ax8-yN-ZcC"/>
+                    <constraint firstItem="hvp-0t-tsu" firstAttribute="trailing" secondItem="4nU-Gg-S2O" secondAttribute="trailing" id="DkU-OO-V8G"/>
+                    <constraint firstItem="4nU-Gg-S2O" firstAttribute="top" secondItem="baI-YI-cw0" secondAttribute="bottom" constant="36" id="FIQ-Td-Onr"/>
+                    <constraint firstItem="f5h-G5-axn" firstAttribute="top" secondItem="hvp-0t-tsu" secondAttribute="bottom" constant="36" id="GRc-1v-QPe"/>
+                    <constraint firstItem="R9D-Ap-zpH" firstAttribute="top" secondItem="zr7-ep-EQW" secondAttribute="bottom" constant="8" id="H4W-5x-kXA"/>
+                    <constraint firstItem="R9D-Ap-zpH" firstAttribute="leading" secondItem="f5h-G5-axn" secondAttribute="leading" id="Iid-Na-ZHe"/>
+                    <constraint firstItem="zr7-ep-EQW" firstAttribute="leading" secondItem="f5h-G5-axn" secondAttribute="leading" id="Jqw-Pg-xcv"/>
+                    <constraint firstItem="4nU-Gg-S2O" firstAttribute="trailing" secondItem="baI-YI-cw0" secondAttribute="trailing" id="LI9-Kz-c53"/>
+                    <constraint firstItem="f5h-G5-axn" firstAttribute="trailing" secondItem="hvp-0t-tsu" secondAttribute="trailing" id="Tf9-yo-C5l"/>
+                    <constraint firstItem="hvp-0t-tsu" firstAttribute="top" secondItem="4nU-Gg-S2O" secondAttribute="bottom" constant="36" id="WbS-lt-C1W"/>
+                    <constraint firstItem="baI-YI-cw0" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="YeW-8i-NUe"/>
+                    <constraint firstItem="hvp-0t-tsu" firstAttribute="leading" secondItem="4nU-Gg-S2O" secondAttribute="leading" id="aT6-co-kDZ"/>
+                    <constraint firstItem="f5h-G5-axn" firstAttribute="leading" secondItem="hvp-0t-tsu" secondAttribute="leading" id="bed-l4-y8s"/>
+                    <constraint firstAttribute="trailing" secondItem="baI-YI-cw0" secondAttribute="trailing" constant="16" id="luw-h7-1Y6"/>
+                    <constraint firstAttribute="bottom" secondItem="R9D-Ap-zpH" secondAttribute="bottom" priority="250" constant="24" id="mE5-Zb-K5a"/>
+                    <constraint firstItem="R9D-Ap-zpH" firstAttribute="trailing" secondItem="f5h-G5-axn" secondAttribute="trailing" id="odM-tC-qM7"/>
+                    <constraint firstItem="baI-YI-cw0" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="pIz-w7-COL"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="addressTextField" destination="f5h-G5-axn" id="4MG-u2-a6n"/>
+                <outlet property="emailTextField" destination="4nU-Gg-S2O" id="J8F-gf-GMu"/>
+                <outlet property="nameTextField" destination="baI-YI-cw0" id="pY8-HY-vyL"/>
+                <outlet property="phoneTextField" destination="hvp-0t-tsu" id="HST-7x-qQZ"/>
+                <outlet property="shipTimeSelector" destination="R9D-Ap-zpH" id="obA-Dq-RQr"/>
+            </connections>
+            <point key="canvasLocation" x="50.724637681159422" y="180.46875"/>
+        </tableViewCell>
+    </objects>
+</document>
