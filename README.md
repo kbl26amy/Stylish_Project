@@ -139,5 +139,5 @@ extension Notification.Name {
 
 ```
 其他功能與畫面展示：
-
+![image](https://github.com/kbl26amy/Stylish_Project/blob/master/Stylish%20Introduction.png?raw=true)
 
