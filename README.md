@@ -137,5 +137,7 @@ extension Notification.Name {
     static let didUpdateBuyItemList = Notification.Name("didUpdateBuyItemList")
 }
 
+```
+其他功能與畫面展示：
 
 
