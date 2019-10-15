@@ -140,6 +140,22 @@ extension Notification.Name {
 }
 
 ```
+
+### Third-Party Libraries
+* 
+* Kingfisher - 善用快取的方式處理網路圖片並呈現在 App
+* IQKeyboardManager - 解決鍵盤彈起時遮住輸入框的工具
+* KeychainAccess - 針對用戶 id 加密
+* CRRefresh - 下拉功能套件
+* ESPullToRefresh - 上滑功能套件
+* Alamofire - 協助網路API流程的第三方工具
+* SwiftLint - 檢查 CodingStyle 與格式的工具
+* FBSDKLoginKit - 使用FB登入處理用戶註冊
+     
+### Requirements
+-----------------
+* Xcode11
+* iOS 13
 截圖畫面展示：
 ![image](https://github.com/kbl26amy/Stylish_Project/blob/master/Stylish%20Introduction.png?raw=true)
 
