@@ -1,5 +1,6 @@
 # Stylish_Project
 Stylish是一個電商衣飾販售的 APP，其中製作此 APP 大量使用 Swift 語言處理頁面間資料傳遞的方法，如 `Delegate Pattern` 、 `Notification Center` 與 `Singleton` 等相關概念。
+![image](https://github.com/kbl26amy/Stylish_Project/blob/master/stylish_480.gif?raw=true)
 
 一、
 以下程式碼為用戶選取喜愛的商品進購物車所設計使用的 StorageManager，運用的觀念包括 `Core Data` 本地存取、 `Singleton` 與 `Error Handle`：
@@ -138,6 +139,6 @@ extension Notification.Name {
 }
 
 ```
-其他功能與畫面展示：
+截圖畫面展示：
 ![image](https://github.com/kbl26amy/Stylish_Project/blob/master/Stylish%20Introduction.png?raw=true)
 
